@@ -86,4 +86,3 @@ def can_destroy_all_items_at_once
     movie.delete 
   end 
 end 
-end 
